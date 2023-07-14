@@ -1,0 +1,19 @@
+C# - programming lang
+
+.NET - framework for building apps on Windows. 
+     - F# and VB.NET can use this too.
+     - consists of...
+
+1. CLR - Common Language Runtime. 
+       - Made by Microsoft, inspired by Java.
+       - Compile to intermediate language.
+       - CLR app runs in the background & translates IL code to Machine code (Just-In-time application)
+
+2. Class Library
+.NET Architecture
+ - The app is built with Classes.
+ - ie. Containers with Attributes and Methods.
+ - A Namespace is a container for related classes.
+ - An Assembly is a container for related namespaces.
+    - Can be executables or Dynamically Linked libraries (DLLs)
+ - Compiling an app compiles one or more assemblies.
